@@ -13,8 +13,8 @@
     },
     "author": "Roly Fentanes (https://github.com/fent)",
     "contributors": [
-        "Przemyslaw Pluta <przemyslawplutadev@gmail.com> (http://przemyslawpluta.com)",
-        "Andrew Carlson <andrew@stem.is>"
+        "Ankit Verma <ankit@cloudbloom.io>",
+        "Raghav Kamran <raghav@cloudbloom.io>"
     ],
     "main": "./lib/youtube-dl.js",
     "directories": {
